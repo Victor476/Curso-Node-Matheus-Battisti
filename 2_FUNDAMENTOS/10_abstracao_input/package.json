@@ -1,5 +1,5 @@
 {
-  "name": "8_chalk",
+  "name": "10_abstracao_input",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "inquirer": "^8.1.2"
   }
 }
